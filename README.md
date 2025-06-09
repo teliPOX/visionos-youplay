@@ -23,7 +23,6 @@ This project demonstrates how to integrate YouTube playback into a VisionOS app.
    ```bash
    git clone https://github.com/yourusername/youtube-visionos.git
    cd youtube-visionos
-  ```
 
 2. Open the project in Xcode (ensure you have the latest VisionOS SDK installed).
 3. Build and run the project on the Vision Pro simulator or a real device.
@@ -42,4 +41,4 @@ This is an experimental project and may break with future VisionOS updates or SD
 
 📄 License
 
-MIT License. See [LICENSE](./LICENSE] for details.
+MIT License. See [LICENSE](./LICENSE) for details.
